@@ -5,6 +5,12 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) and Sentimen
 
 ---
 
+## 📁 Project Repository Files & Dataset
+* **Python Code File (Google Colab / Jupyter):** [`Netflix Data Analysis.ipynb`](Netflix%20Data%20Analysis.ipynb)
+* **Dataset File:** [`netflix_titles.csv`](netflix_titles.csv)
+
+---
+
 ## 🛠️ Tech Stack & Libraries Used
 * **Python** (Core Language)
 * **Pandas** (Data Cleaning, Manipulation & Preprocessing)
