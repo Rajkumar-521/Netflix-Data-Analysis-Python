@@ -6,8 +6,8 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) and Sentimen
 ---
 
 ## 📁 Project Repository Files & Dataset
-* **Python Code File (Google Colab / Jupyter):** [`Netflix Data Analysis.ipynb`](Netflix%20Data%20Analysis.ipynb)
-* **Dataset File:** [`netflix_titles.csv`](netflix_titles.csv)
+* **Python Code File (Google Colab / Jupyter):** [Netflix Data Analysis.ipynb](Netflix%20Data%20Analysis.ipynb)
+* **Dataset File:** [netflix_titles.csv](netflix_titles.csv)
 
 ---
 
@@ -54,4 +54,4 @@ Leveraged `TextBlob` to classify content descriptions into Positive, Neutral, an
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Rajkumar-521/Netflix-Data-Analysis-Python.git](https://github.com/Rajkumar-521/Netflix-Data-Analysis-Python.git)
+   git clone https://github.com/Rajkumar-521/Netflix-Data-Analysis-Python.git
