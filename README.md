@@ -19,22 +19,22 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) and Sentimen
 
 ### 1. Content Rating Distribution
 Analyzed the rating spectrum across the platform to understand target audience distributions (e.g., TV-MA, TV-14).
-![Content Rating Distribution](images/rating_distribution.png)
+![Content Rating Distribution](rating_distribution.png)
 
 ### 2. Top 5 Directors & Actors on Netflix
 Identified the most frequent directors and cast members based on overall content contribution.
 * **Top Directors:**
-![Top Directors](images/top_directors.png)
+![Top Directors](top_directors.png)
 * **Top Actors:**
-![Top Actors](images/top_actors.png)
+![Top Actors](top_actors.png)
 
 ### 3. Content Production Trend Over the Years
 Tracked the growth and trend of Movies vs. TV Shows added to Netflix over time.
-![Content Production Trend](images/content_trend.png)
+![Content Production Trend](content_trend.png)
 
 ### 4. Description Sentiment Analysis
 Leveraged `TextBlob` to classify content descriptions into Positive, Neutral, and Negative sentiments across release years.
-![Sentiment Analysis](images/sentiment_analysis.png)
+![Sentiment Analysis](sentiment_analysis.png)
 
 ---
 
@@ -48,5 +48,4 @@ Leveraged `TextBlob` to classify content descriptions into Positive, Neutral, an
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Rajkumar-521/Netflix-Data-Analysis-Python.git](https://github.com/Rajkumar-521/Netflix-Data-Analysis-Python.git)# Netflix-Data-Analysis-Python
-End-to-end Exploratory Data Analysis (EDA) and Sentiment Analysis on Netflix dataset using Python, Pandas, and Plotly.
+   git clone [https://github.com/Rajkumar-521/Netflix-Data-Analysis-Python.git](https://github.com/Rajkumar-521/Netflix-Data-Analysis-Python.git)
